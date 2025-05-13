@@ -21,7 +21,16 @@ This repository follows a full data science workflow, including:
 - Spatial Visulisation: Spatially joining all CSV data with MSOA boundaries to be able to create a geospatial visulisation showing the geography of different variables.
 
 # Data Attributions
-Office for National Statistics (ONS) (2025) Middle Super Output Area (MSOA) Boundaries. UK Data Service Census Support. Available at: https://borders.ukdataservice.ac.uk/bds.html (Accessed: 13 May 2025).
-Transport for Greater Manchester (2024) Bus Stopping Points Dataset. Contains OS data © Crown copyright and database right 2024. Available at: https://www.data.gov.uk/dataset/05252e3a-acdf-428b-9314-80ac7b17ab76/bus-stopping-points (Accessed: [13/05/2025])
+Office for National Statistics (ONS) (2025) Middle Super Output Area (MSOA) Boundaries. UK Data Service Census Support. Available at: https://borders.ukdataservice.ac.uk/bds.html (Accessed: 13/05/2025).
+
+Transport for Greater Manchester (2024) Bus Stopping Points Dataset. Contains OS data © Crown copyright and database right 2024. Available at: https://www.data.gov.uk/dataset/05252e3a-acdf-428b-9314-80ac7b17ab76/bus-stopping-points (Accessed: 13/05/2025)
+
+Office for National Statistics (ONS) (2021) TS058 - Distance Travelled to Work, UK Data Service Census Support. Available at: https://www.nomisweb.co.uk/datasets/c2021ts058 (Accessed: 13/05/2025)
+
+Office for National Statistics (ONS) (2001) KS015 - Travel to Work, UK Data Service Census Suppor.  Available at: https://www.nomisweb.co.uk/datasets/ks015 (Accessed: 13/05/2025)
+
+Office for National Statistics (ONS) (2021) Unemployment Time Series (MGSX - Labour Market Statistics). Available at: https://www.ons.gov.uk/employmentandlabourmarket/peoplenotinwork/unemployment/timeseries/mgsx/lms (Accessed: 13 May 2025).
+
+
 
 

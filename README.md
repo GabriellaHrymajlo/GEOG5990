@@ -18,4 +18,10 @@ This repository follows a full data science workflow, including:
 - Data Cleaning & Preprocessing and Exploratory Data Analysis: Looking for outliers and standardising coordinate systems. Generating summary statistics and histograms for key variables.
 - Statistical Modelling: Creating a statistical model between the variables chosen. 
 - Non-Spatial Visualisations: Creating a bar chart to identify trends.
-- Spatial Visulisation: Spatially joining all CSV data with MSOA boundaries to be able to create a geospatial visulisation showing the geography of different variables. 
+- Spatial Visulisation: Spatially joining all CSV data with MSOA boundaries to be able to create a geospatial visulisation showing the geography of different variables.
+
+Data Attributions
+Office for National Statistics (ONS) (2025) Middle Super Output Area (MSOA) Boundaries. UK Data Service Census Support. Available at: https://borders.ukdataservice.ac.uk/bds.html (Accessed: 13 May 2025).
+Transport for Greater Manchester (2024) Bus Stopping Points Dataset. Contains OS data © Crown copyright and database right 2024. Available at: https://www.data.gov.uk/dataset/05252e3a-acdf-428b-9314-80ac7b17ab76/bus-stopping-points (Accessed: [13/05/2025])
+
+

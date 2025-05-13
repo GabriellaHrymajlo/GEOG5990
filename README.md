@@ -1,7 +1,7 @@
 # Public Transport Accessibility & Employment Rates in Greater Manchester  
 
 # Project Overview  
-This project investigates whether areas with better public transport accessibility in Greater Manchester have higher employment rates. Using 2011 Census data, we analyse the relationship between commuting distances, travel modes, and employment outcomes at the MSOA (Middle Super Output Area) level**. Additionally, bus stop locations provide insights into transport accessibility.  
+This project investigates whether areas with better public transport accessibility in Greater Manchester have higher employment rates. Using 2011 Census data, we analyse the relationship between commuting distances, travel modes, and employment outcomes at the MSOA (Middle Super Output Area) level. Additionally, bus stop locations provide insights into transport accessibility.  
 
 The goal is to determine whether higher public transport reliance correlates with improved employment levels, supporting evidence-based decision-making in transport planning and employment policy.  
 
